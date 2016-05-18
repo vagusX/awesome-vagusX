@@ -25,3 +25,4 @@ A collection of awesome things by vagusX
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
+* [玩转各大浏览器的桌面通知 Chrome, Safari, Firefox, and IE 9+](https://github.com/Nickersoft/push.js)
