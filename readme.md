@@ -12,6 +12,7 @@ A collection of awesome things by vagusX
 - [Useful Repos](#useful-repos)
 - [Cool Repos](#cool-repos)
 - [Nice Site Sample](#nice-site-sample)
+- [Canvas Related](#canvas-related)
 
 ----------
 ### JS
@@ -39,6 +40,9 @@ A collection of awesome things by vagusX
 * [use mobx in react](http://stackoverflow.com/questions/35850871/how-to-connect-state-to-props-with-mobx-js-observer-when-use-es6-class)
 * [mobx server render](https://github.com/kuuup/mobx-ssr-example)
 * [react ie8](https://github.com/xcatliu/react-ie8)
+* [react treeview](https://github.com/chenglou/react-treeview)
+* [react motion](https://github.com/chenglou/react-motion)
+* [React Patterns](https://github.com/planningcenter/react-patterns)
 
 ### React Articles
 * [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.q1q44txnb)
@@ -60,6 +64,11 @@ A collection of awesome things by vagusX
 * [Collie: High Performance JS Library](http://jindo.dev.naver.com/collie/index.html#about)
 * [Incredible Presentation Experience](https://github.com/impress/impress.js)
 * [HTML Presentation Framework](https://github.com/hakimel/reveal.js)
+* [Triggers classes when scrolling](https://github.com/terwanerik/ScrollTrigger)
+* [Cleave.js: Format input content when typing](https://github.com/nosir/cleave.js)
+* [Uppy: file uploader](https://github.com/transloadit/uppy)
+* [Javascript Audio Library](https://github.com/goldfire/howler.js)
+* [Documentation Website Generator](https://github.com/docpress/docpress)
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
@@ -73,9 +82,15 @@ A collection of awesome things by vagusX
 * [Turn any <input> into an address autocomplete](https://github.com/algolia/places/)
 * [Solution to full-screen background video & image combined.](https://github.com/dvLden/Vidage)
 * [Manipulate strings like a wizard](https://github.com/Rich-Harris/magic-string)
+* [SVG renders of printed circuit boards](https://github.com/tracespace/pcb-stackup)
 
 ### Nice Site Sample
 https://www.getflow.com/
 
 ### Web Related Articles
 * [CQRS : A Cross Examination Of How It Works](http://www.codeproject.com/Articles/991648/CQRS-A-Cross-Examination-Of-How-It-Works)
+
+### Canvas Related
+* [Ocanvas](http://ocanvas.org/)
+* [Fabric](http://fabricjs.com/)
+* [Canvas Query](http://canvasquery.com/)
