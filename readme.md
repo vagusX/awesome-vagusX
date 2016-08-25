@@ -43,6 +43,8 @@ A collection of awesome things by vagusX
 * [react treeview](https://github.com/chenglou/react-treeview)
 * [react motion](https://github.com/chenglou/react-motion)
 * [React Patterns](https://github.com/planningcenter/react-patterns)
+* [Auto Responsive Layout Library For React](https://github.com/xudafeng/autoresponsive-react)
+* [react-rte | Pure React rich text editor](https://github.com/sstur/react-rte)
 
 ### React Articles
 * [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.q1q44txnb)
@@ -69,6 +71,11 @@ A collection of awesome things by vagusX
 * [Uppy: file uploader](https://github.com/transloadit/uppy)
 * [Javascript Audio Library](https://github.com/goldfire/howler.js)
 * [Documentation Website Generator](https://github.com/docpress/docpress)
+* [Social Sharing Buttons](https://github.com/mxstbr/sharingbuttons.io)
+* [A vanilla JS customisable select box/text input plugin](https://github.com/jshjohnson/Choices)
+* [Create image differential between two images](https://github.com/uber/image-diff)
+* [Safer Monkey Patching for Node.js](https://github.com/othiym23/shimmer)
+* [ A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2](https://github.com/egoist/vuepack)
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
@@ -83,6 +90,9 @@ A collection of awesome things by vagusX
 * [Solution to full-screen background video & image combined.](https://github.com/dvLden/Vidage)
 * [Manipulate strings like a wizard](https://github.com/Rich-Harris/magic-string)
 * [SVG renders of printed circuit boards](https://github.com/tracespace/pcb-stackup)
+* [Polymer Iron-icons](https://elements.polymer-project.org/elements/iron-icons?view=demo:demo/index.html)
+* [Things without js but CSS](https://github.com/NamPNQ/You-Dont-Need-Javascript)
+* [Full featured JavaScript gallery without dependencies](https://github.com/sachinchoolur/lightgallery.js)
 
 ### Nice Site Sample
 https://www.getflow.com/
