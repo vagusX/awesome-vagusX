@@ -6,6 +6,7 @@ A collection of awesome things by vagusX
 - [Webpack](#webpack)
   - [Articles](#webpack-articles)
 - [React Related](#react-related)
+- [Angular Related](#angular-related)
 - [PostCSS Related](#postcss-related)
 - [Git Related](#git-related)
 - [CSS Tricks && Tips](#css-tricks-tips)
@@ -45,6 +46,12 @@ A collection of awesome things by vagusX
 * [React Patterns](https://github.com/planningcenter/react-patterns)
 * [Auto Responsive Layout Library For React](https://github.com/xudafeng/autoresponsive-react)
 * [react-rte | Pure React rich text editor](https://github.com/sstur/react-rte)
+* [react-dates | datapicker by airbnb](https://github.com/airbnb/react-dates)
+* [react-portal | overlay like](https://github.com/tajo/react-portal)
+* [react-highlight](https://github.com/akiran/react-highlight)
+
+#### Angular Related
+* [A complete, yet simple, starter for Angular 2 using webpack](https://github.com/preboot/angular2-webpack)
 
 ### React Articles
 * [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.q1q44txnb)
@@ -76,6 +83,9 @@ A collection of awesome things by vagusX
 * [Create image differential between two images](https://github.com/uber/image-diff)
 * [Safer Monkey Patching for Node.js](https://github.com/othiym23/shimmer)
 * [ A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2](https://github.com/egoist/vuepack)
+* [Http Observatory Website](https://mozilla.github.io/http-observatory-website/)
+* [You Dont Need Lodash Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
+* [You Dont Need Javascript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
@@ -93,9 +103,14 @@ A collection of awesome things by vagusX
 * [Polymer Iron-icons](https://elements.polymer-project.org/elements/iron-icons?view=demo:demo/index.html)
 * [Things without js but CSS](https://github.com/NamPNQ/You-Dont-Need-Javascript)
 * [Full featured JavaScript gallery without dependencies](https://github.com/sachinchoolur/lightgallery.js)
+* [A JavaScript touch gesture detection library for the modern web](https://github.com/zingchart/zingtouch)
+* [Data-Driven Declarative Documents to draw SVG](https://github.com/joelburget/d4)
+* [JavaScript Patterns Collection](https://github.com/shichuan/javascript-patterns)
 
 ### Nice Site Sample
 https://www.getflow.com/
+https://www.mapbox.com/maps/
+https://apiblueprint.org/
 
 ### Web Related Articles
 * [CQRS : A Cross Examination Of How It Works](http://www.codeproject.com/Articles/991648/CQRS-A-Cross-Examination-Of-How-It-Works)
