@@ -49,9 +49,16 @@ A collection of awesome things by vagusX
 * [react-dates | datapicker by airbnb](https://github.com/airbnb/react-dates)
 * [react-portal | overlay like](https://github.com/tajo/react-portal)
 * [react-highlight](https://github.com/akiran/react-highlight)
+* [nuka-carousel | pure react carousel](https://github.com/FormidableLabs/nuka-carousel)
+* [create-react-app + Progressive Web App goodness](https://github.com/jeffposnick/create-react-pwa)
+* [A completely customizable framework for building rich text editors](https://github.com/ianstormtaylor/slate)
+* [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
+* [Sortable — is a JavaScript library for reorderable drag-and-drop lists without jQuery](https://github.com/RubaXa/Sortable)
+* [Tesseract.js is a pure Javascript port of the popular Tesseract OCR engine](http://tesseract.projectnaptha.com/)
 
 #### Angular Related
 * [A complete, yet simple, starter for Angular 2 using webpack](https://github.com/preboot/angular2-webpack)
+* [Angular 2 Starter kit](https://github.com/AngularClass/angular2-webpack-starter)
 
 ### React Articles
 * [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.q1q44txnb)
@@ -86,6 +93,11 @@ A collection of awesome things by vagusX
 * [Http Observatory Website](https://mozilla.github.io/http-observatory-website/)
 * [You Dont Need Lodash Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore)
 * [You Dont Need Javascript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
+* [NPM Check](https://github.com/dylang/npm-check)
+* [text mask](https://github.com/text-mask/text-mask)
+* [Functional WebGL](https://github.com/regl-project/regl)
+* [Run multiple npm-scripts in parallel or sequential](https://github.com/mysticatea/npm-run-all)
+* [JavaScript library to make drawing animation on SVG](http://maxwellito.github.io/vivus/)
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
@@ -106,6 +118,7 @@ A collection of awesome things by vagusX
 * [A JavaScript touch gesture detection library for the modern web](https://github.com/zingchart/zingtouch)
 * [Data-Driven Declarative Documents to draw SVG](https://github.com/joelburget/d4)
 * [JavaScript Patterns Collection](https://github.com/shichuan/javascript-patterns)
+* [Brings the hygienic macros](http://sweetjs.org/doc/1.0/tutorial.html)
 
 ### Nice Site Sample
 https://www.getflow.com/
