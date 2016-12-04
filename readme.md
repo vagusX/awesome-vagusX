@@ -14,6 +14,7 @@ A collection of awesome things by vagusX
 - [Cool Repos](#cool-repos)
 - [Nice Site Sample](#nice-site-sample)
 - [Canvas Related](#canvas-related)
+- [Some Blogs](#some-blogs)
 
 ----------
 ### JS
@@ -98,6 +99,12 @@ A collection of awesome things by vagusX
 * [Functional WebGL](https://github.com/regl-project/regl)
 * [Run multiple npm-scripts in parallel or sequential](https://github.com/mysticatea/npm-run-all)
 * [JavaScript library to make drawing animation on SVG](http://maxwellito.github.io/vivus/)
+* [Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
+* [Modern JavaScript date utility library](https://github.com/date-fns/date-fns)
+* [Predict which DOM element a user will interact with next](https://github.com/mathisonian/premonish)
+* [InstantClick using 2-300 ms between hovering and clicking a link tag to preload the link's target page](https://github.com/dieulot/instantclick/)
+* [JavaScript library for mobile-friendly interactive maps](https://github.com/Leaflet/Leaflet)
+* [GUI for Data Modeling with Elasticsearch](https://github.com/appbaseio/gem)
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
@@ -132,3 +139,6 @@ https://apiblueprint.org/
 * [Ocanvas](http://ocanvas.org/)
 * [Fabric](http://fabricjs.com/)
 * [Canvas Query](http://canvasquery.com/)
+
+### Some Blogs
+* http://www.cnblogs.com/ziyunfei/
