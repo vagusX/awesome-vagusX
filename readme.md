@@ -105,6 +105,10 @@ A collection of awesome things by vagusX
 * [InstantClick using 2-300 ms between hovering and clicking a link tag to preload the link's target page](https://github.com/dieulot/instantclick/)
 * [JavaScript library for mobile-friendly interactive maps](https://github.com/Leaflet/Leaflet)
 * [GUI for Data Modeling with Elasticsearch](https://github.com/appbaseio/gem)
+* [PouchDB is a pocket-sized database](https://github.com/pouchdb/pouchdb)
+* [Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown](https://github.com/pubkey/rxdb)
+* [Using styleName attr instead of className and stay peace with global CSS](https://github.com/gajus/babel-plugin-react-css-modules)
+* [A tiny async loader for modern browsers (710 bytes)](https://github.com/muicss/loadjs)
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
