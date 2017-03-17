@@ -12,6 +12,7 @@ A collection of awesome things by vagusX
 - [CSS Tricks && Tips](#css-tricks-tips)
 - [Useful Repos](#useful-repos)
 - [Cool Repos](#cool-repos)
+- [Cool jQuery Plugins](#cool-jquery-plugins)
 - [Nice Site Sample](#nice-site-sample)
 - [Canvas Related](#canvas-related)
 - [Some Blogs](#some-blogs)
@@ -56,6 +57,8 @@ A collection of awesome things by vagusX
 * [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 * [Sortable — is a JavaScript library for reorderable drag-and-drop lists without jQuery](https://github.com/RubaXa/Sortable)
 * [Tesseract.js is a pure Javascript port of the popular Tesseract OCR engine](http://tesseract.projectnaptha.com/)
+* [A higher order component for loading components with promises](https://github.com/thejameskyle/react-loadable)
+* [Slot & Fill component for merging React subtrees together](https://github.com/camwest/react-slot-fill)
 
 #### Angular Related
 * [A complete, yet simple, starter for Angular 2 using webpack](https://github.com/preboot/angular2-webpack)
@@ -109,6 +112,14 @@ A collection of awesome things by vagusX
 * [Reactive Offline-first Database with Sync, Schema, Mongo-Query, Encryption, LevelDown](https://github.com/pubkey/rxdb)
 * [Using styleName attr instead of className and stay peace with global CSS](https://github.com/gajus/babel-plugin-react-css-modules)
 * [A tiny async loader for modern browsers (710 bytes)](https://github.com/muicss/loadjs)
+* [Generate regular expressions that match a set of strings](https://github.com/devongovett/regexgen)
+* [A ViewPager animator that animates Views within pages as well as views across pages](https://github.com/IFTTT/SparkleMotion)
+* [Tiny 200b functional event emitter / pubsub](https://github.com/developit/mitt)
+* [Client-Side Database for Browsers, NodeJS, electron, cordova, react-native and every other javascript-runtime](https://github.com/pubkey/rxdb)
+* [Navigation for React Native](https://github.com/react-community/react-navigation)
+* [Cross-browser storage for all use cases • Used across the web](https://github.com/marcuswestin/store.js)
+* [A modern hackable pixel art editor](https://github.com/maierfelix/poxi)
+* [A tiny(~2kb) library to blurred pictures, support graceful downgrade from `css` mode to `canvas` mode](https://github.com/JustClear/blurify)
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
@@ -130,6 +141,11 @@ A collection of awesome things by vagusX
 * [Data-Driven Declarative Documents to draw SVG](https://github.com/joelburget/d4)
 * [JavaScript Patterns Collection](https://github.com/shichuan/javascript-patterns)
 * [Brings the hygienic macros](http://sweetjs.org/doc/1.0/tutorial.html)
+* [Lint browser compatability of APIs used](https://github.com/amilajack/eslint-plugin-compat)
+
+### Cool jQuery Plugins
+* [A tiny 60+fps parallax tilt hover effect for jQuery](https://github.com/gijsroge/tilt.js)
+* [A user-friendly replacement for select boxes with multiple attribute enabled with jQuery](https://github.com/Fabianlindfors/multi.js)
 
 ### Nice Site Sample
 https://www.getflow.com/
