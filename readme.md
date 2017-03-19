@@ -27,6 +27,7 @@ A collection of awesome things by vagusX
 #### Webpack Related Repos
 * [Webpack Bin](http://www.webpackbin.com/EkBATOZRl) A webpack code sandbox
 * [Unstuck Webpack](http://www.linuxenko.pro/unstuck-webpack) Webpack quick project creation GUI tool
+* [Webpack plugin that warns you when multiple versions of the same package exist in a build](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin)
 
 #### Webpack Articles
 * [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10)
@@ -120,6 +121,8 @@ A collection of awesome things by vagusX
 * [Cross-browser storage for all use cases • Used across the web](https://github.com/marcuswestin/store.js)
 * [A modern hackable pixel art editor](https://github.com/maierfelix/poxi)
 * [A tiny(~2kb) library to blurred pictures, support graceful downgrade from `css` mode to `canvas` mode](https://github.com/JustClear/blurify)
+* [A CMS for Static Site Generators](https://github.com/netlify/netlify-cms)
+* [Create an invisible perimeter around an element and respond when its breached](https://github.com/aweary/react-perimeter)
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
