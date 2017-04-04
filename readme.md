@@ -60,6 +60,11 @@ A collection of awesome things by vagusX
 * [Tesseract.js is a pure Javascript port of the popular Tesseract OCR engine](http://tesseract.projectnaptha.com/)
 * [A higher order component for loading components with promises](https://github.com/thejameskyle/react-loadable)
 * [Slot & Fill component for merging React subtrees together](https://github.com/camwest/react-slot-fill)
+* [Experimental implementation of high performance interactable views in React Native](https://github.com/wix/react-native-interactable)
+* [A springy, composable parallax-scroller for React](https://github.com/drcmda/react-springy-parallax)
+* [Super easy magic-move transitions like ramjet for React app](https://github.com/berzniz/react-overdrive)
+* [Build Offline-First Apps for Web and React Native](https://github.com/jevakallio/redux-offline)
+* [A lightweight toolset for writing styles in JavaScript](https://github.com/styled-components/polished)
 
 #### Angular Related
 * [A complete, yet simple, starter for Angular 2 using webpack](https://github.com/preboot/angular2-webpack)
@@ -123,6 +128,7 @@ A collection of awesome things by vagusX
 * [A tiny(~2kb) library to blurred pictures, support graceful downgrade from `css` mode to `canvas` mode](https://github.com/JustClear/blurify)
 * [A CMS for Static Site Generators](https://github.com/netlify/netlify-cms)
 * [Create an invisible perimeter around an element and respond when its breached](https://github.com/aweary/react-perimeter)
+* [A lightweight, pure JS tooltip library](https://github.com/atomiks/tippyjs)
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
@@ -132,7 +138,7 @@ A collection of awesome things by vagusX
 * [广发证券技术博客](https://github.com/gf-rd/blog/issues)
 * [HTML5 Background Video](https://github.com/rishabhp/bideo.js)
 * [Console for Mobile Browsers](https://github.com/liriliri/eruda)
-* [Swiper with hardware accelerated transitions](https://github.com/nolimits4web/swiper/)
+* [Most modern mobile touch slider with hardware accelerated transitions](https://github.com/nolimits4web/swiper/)
 * [Turn any <input> into an address autocomplete](https://github.com/algolia/places/)
 * [Solution to full-screen background video & image combined.](https://github.com/dvLden/Vidage)
 * [Manipulate strings like a wizard](https://github.com/Rich-Harris/magic-string)
