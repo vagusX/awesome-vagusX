@@ -65,6 +65,8 @@ A collection of awesome things by vagusX
 * [Super easy magic-move transitions like ramjet for React app](https://github.com/berzniz/react-overdrive)
 * [Build Offline-First Apps for Web and React Native](https://github.com/jevakallio/redux-offline)
 * [A lightweight toolset for writing styles in JavaScript](https://github.com/styled-components/polished)
+* [Excel-like data grid component for react](https://github.com/nadbm/react-datasheet)
+* [<Sticky /> component for awesome React apps](https://github.com/captivationsoftware/react-sticky)
 
 #### Angular Related
 * [A complete, yet simple, starter for Angular 2 using webpack](https://github.com/preboot/angular2-webpack)
@@ -82,6 +84,7 @@ A collection of awesome things by vagusX
 #### CSS Tricks && Tips
 * [Shapes Of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
 * [Rem in CSS](https://segmentfault.com/a/1190000003690140)
+* [A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on.](https://github.com/IanLunn/Hover)
 
 #### Useful Repos
 * [Datetimepicker: lightweight & powerful](https://chmln.github.io/flatpickr)
@@ -129,9 +132,11 @@ A collection of awesome things by vagusX
 * [A CMS for Static Site Generators](https://github.com/netlify/netlify-cms)
 * [Create an invisible perimeter around an element and respond when its breached](https://github.com/aweary/react-perimeter)
 * [A lightweight, pure JS tooltip library](https://github.com/atomiks/tippyjs)
+* [2D JavaScript Physics Engine](https://github.com/shakiba/planck.js)
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
+* [The most easy to use responsive image viewer especially for mobile devices](https://github.com/appleple/SmartPhoto)
 * [玩转各大浏览器的桌面通知 Chrome, Safari, Firefox, and IE 9+](https://github.com/Nickersoft/push.js)
 * [A simple HTML5, YouTube and Vimeo player](https://github.com/Selz/plyr)
 * [Color scheme editor for SublimeText, Textmate and a bunch of other text editors](https://github.com/aziz/tmTheme-Editor)
@@ -151,6 +156,7 @@ A collection of awesome things by vagusX
 * [JavaScript Patterns Collection](https://github.com/shichuan/javascript-patterns)
 * [Brings the hygienic macros](http://sweetjs.org/doc/1.0/tutorial.html)
 * [Lint browser compatability of APIs used](https://github.com/amilajack/eslint-plugin-compat)
+* [Efficient Augmented Reality for the Web - 60fps on mobile!](https://github.com/jeromeetienne/AR.js)
 
 ### Cool jQuery Plugins
 * [A tiny 60+fps parallax tilt hover effect for jQuery](https://github.com/gijsroge/tilt.js)
