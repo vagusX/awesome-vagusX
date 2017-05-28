@@ -28,6 +28,7 @@ A collection of awesome things by vagusX
 * [Webpack Bin](http://www.webpackbin.com/EkBATOZRl) A webpack code sandbox
 * [Unstuck Webpack](http://www.linuxenko.pro/unstuck-webpack) Webpack quick project creation GUI tool
 * [Webpack plugin that warns you when multiple versions of the same package exist in a build](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin)
+* [Low Quality Image Placeholders (LQIP) for Webpack](https://github.com/zouhir/lqip-loader)
 
 #### Webpack Articles
 * [基于webpack搭建前端工程解决方案探索](https://github.com/chemdemo/chemdemo.github.io/issues/10)
