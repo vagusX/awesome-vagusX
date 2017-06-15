@@ -68,6 +68,7 @@ A collection of awesome things by vagusX
 * [A lightweight toolset for writing styles in JavaScript](https://github.com/styled-components/polished)
 * [Excel-like data grid component for react](https://github.com/nadbm/react-datasheet)
 * [<Sticky /> component for awesome React apps](https://github.com/captivationsoftware/react-sticky)
+* [A Coverflow effect component of React version made for the web](https://github.com/andyyou/react-coverflow)
 
 #### Angular Related
 * [A complete, yet simple, starter for Angular 2 using webpack](https://github.com/preboot/angular2-webpack)
@@ -134,6 +135,10 @@ A collection of awesome things by vagusX
 * [Create an invisible perimeter around an element and respond when its breached](https://github.com/aweary/react-perimeter)
 * [A lightweight, pure JS tooltip library](https://github.com/atomiks/tippyjs)
 * [2D JavaScript Physics Engine](https://github.com/shakiba/planck.js)
+* [A production-focused playground for live editing React components](https://github.com/FormidableLabs/react-live)
+* [Tools for smoother shape animations](http://rapd.wordpress.com/2007/07/12/javascript-substr-vs-substring/)
+* [SVG and PNG renders of all countries' flags](https://github.com/hjnilsson/country-flags)
+* [Responsive React grid system built with styled-components](https://github.com/jxnblk/grid-styled)
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
@@ -158,6 +163,9 @@ A collection of awesome things by vagusX
 * [Brings the hygienic macros](http://sweetjs.org/doc/1.0/tutorial.html)
 * [Lint browser compatability of APIs used](https://github.com/amilajack/eslint-plugin-compat)
 * [Efficient Augmented Reality for the Web - 60fps on mobile!](https://github.com/jeromeetienne/AR.js)
+* [Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber](https://github.com/codrops/RainEffect)
+* [A cross platform HTML5 QR code reader](https://github.com/dwa012/html5-qrcode)
+* [1kb js library contains development debugging, error monitoring and reporting, user problem localization features](https://github.com/AlloyTeam/AlloyLever)
 
 ### Cool jQuery Plugins
 * [A tiny 60+fps parallax tilt hover effect for jQuery](https://github.com/gijsroge/tilt.js)
