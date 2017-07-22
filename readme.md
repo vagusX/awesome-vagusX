@@ -69,6 +69,7 @@ A collection of awesome things by vagusX
 * [Excel-like data grid component for react](https://github.com/nadbm/react-datasheet)
 * [<Sticky /> component for awesome React apps](https://github.com/captivationsoftware/react-sticky)
 * [A Coverflow effect component of React version made for the web](https://github.com/andyyou/react-coverflow)
+* [Puts your console on blast when React is making unnecessary updates](https://github.com/garbles/why-did-you-update)
 
 #### Angular Related
 * [A complete, yet simple, starter for Angular 2 using webpack](https://github.com/preboot/angular2-webpack)
@@ -139,6 +140,8 @@ A collection of awesome things by vagusX
 * [Tools for smoother shape animations](http://rapd.wordpress.com/2007/07/12/javascript-substr-vs-substring/)
 * [SVG and PNG renders of all countries' flags](https://github.com/hjnilsson/country-flags)
 * [Responsive React grid system built with styled-components](https://github.com/jxnblk/grid-styled)
+* [The best way to build animation compositions for React](https://github.com/jondot/react-flight)
+* [📝 the simplest and smallest (1kB) WYSIWYG text editor for web, with no dependencies ](https://github.com/jaredreich/pell)
 
 #### Cool Repos
 * [类似500px的gallery slider](https://github.com/dimsemenov/PhotoSwipe)
